@@ -1,0 +1,8 @@
+com/template/auth/controller/AuthController.class
+com/template/auth/service/JwtService.class
+com/template/auth/repository/UserCredentialsRepository.class
+com/template/auth/dto/AuthRequest.class
+com/template/auth/AuthApplication.class
+com/template/auth/service/AuthService.class
+com/template/auth/entity/UserCredentials.class
+com/template/auth/config/SecurityConfig.class

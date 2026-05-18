@@ -1,0 +1,3 @@
+/home/nacer/Documents/HCN/Spring_temp/microservices-template/gateway-service/src/main/java/com/template/gateway/GatewayApplication.java
+/home/nacer/Documents/HCN/Spring_temp/microservices-template/gateway-service/src/main/java/com/template/gateway/filter/AuthenticationFilter.java
+/home/nacer/Documents/HCN/Spring_temp/microservices-template/gateway-service/src/main/java/com/template/gateway/util/JwtUtil.java

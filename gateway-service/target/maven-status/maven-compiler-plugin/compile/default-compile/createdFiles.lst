@@ -1,0 +1,3 @@
+com/template/gateway/filter/AuthenticationFilter.class
+com/template/gateway/util/JwtUtil.class
+com/template/gateway/GatewayApplication.class
