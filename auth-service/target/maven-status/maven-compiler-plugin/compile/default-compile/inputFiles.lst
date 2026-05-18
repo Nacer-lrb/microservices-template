@@ -1,8 +1,0 @@
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/AuthApplication.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/config/SecurityConfig.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/controller/AuthController.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/dto/AuthRequest.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/entity/UserCredentials.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/repository/UserCredentialsRepository.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/service/AuthService.java
-/home/nacer/Documents/HCN/Spring_temp/microservices-template/auth-service/src/main/java/com/template/auth/service/JwtService.java
