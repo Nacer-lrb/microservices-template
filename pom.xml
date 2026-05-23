@@ -32,6 +32,8 @@
         <module>discovery-server</module>
         <module>auth-service</module>
         <module>gateway-service</module>
+        <module>user-service</module>
+        <module>product-service</module>
     </modules>
 
     <dependencyManagement>
