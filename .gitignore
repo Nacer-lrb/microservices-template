@@ -17,6 +17,9 @@
 hs_err_pid*
 replay_pid*
 
+# Project specific ignores
+api-tests.http
+
 ### Maven ###
 target/
 pom.xml.tag
