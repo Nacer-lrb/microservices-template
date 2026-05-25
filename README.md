@@ -104,26 +104,6 @@ docker compose down -v
 
 ---
 
-##  API Testing
-
-An `api-tests.http` file is available at the project root, compatible with **IntelliJ IDEA HTTP Client** and **VS Code REST Client**.
-
-```http
-### 1. Register a new user
-POST http://localhost:8060/api/auth/register
-
-### 2. Login → get JWT token
-POST http://localhost:8060/api/auth/login
-
-### 3. Create a product (requires JWT)
-POST http://localhost:8060/api/products
-
-### 4. Place an order → triggers Kafka → notification logged
-POST http://localhost:8060/api/orders
-```
-
----
-
 ##  Project Structure
 
 ```
