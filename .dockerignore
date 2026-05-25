@@ -1,0 +1,21 @@
+# Ignorer les dossiers de build Java
+**/target/
+**/.mvn/
+**/work/
+
+# Ignorer le dossier Git et IDEs
+.git/
+.gitignore
+.idea/
+*.iml
+.vscode/
+
+# Ignorer les fichiers temporaires et archives
+*.zip
+*.tar.gz
+*.log
+
+# Ignorer Next.js / Frontend node_modules (si présent plus tard)
+**/node_modules/
+**/.next/
+**/.env*
