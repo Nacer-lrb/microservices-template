@@ -3,7 +3,6 @@
 # Contexte de build : racine du projet (microservices-template/)
 # Usage  : docker compose up --build -d
 # =======================================================================
-version: '3.8'
 
 # ─────────────────────────────────────────────────────────────────────
 # RÉSEAU PARTAGÉ PAR TOUS LES SERVICES
